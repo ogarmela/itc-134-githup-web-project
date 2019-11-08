@@ -1,0 +1,39 @@
+/*syles for GitHup web page project*/
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background: pink;
+
+}
+#wrapper{
+    width: 940px;
+    margin: 0 auto;
+}
+
+
+nav {
+    height: 50px;
+    background: tan;
+}
+
+main {
+    height: 400px;
+    width: 780px;
+    background: lightblue;
+}
+footer {
+    height: 50px;
+    background: yellow;
+} 
+
+footer li {
+    float: left;
+    list-style-type: none;
+    margin: 20px;
+}
+
+
